@@ -1,0 +1,1 @@
+<p style="text-align: center">You are not authorized to access this page. <a href="/">Return to homepage</a> <p>
