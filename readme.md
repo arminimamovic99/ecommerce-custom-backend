@@ -8,6 +8,4 @@ goes through a verification process with the admins. If the admin approves the p
 Technologies used:
 - Laravel 5.4
 - MySQL
-- HTML5
-- CSS3
-- JavaScript / jQuery
+
